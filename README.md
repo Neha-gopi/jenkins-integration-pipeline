@@ -1,7 +1,5 @@
 # jenkins-integration-pipelline
-#Neha Gopi- Draft 
-
-#sit753
+# Trial
 
 Repository for SIT753 Jenkins Pipeline Task
 
